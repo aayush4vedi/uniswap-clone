@@ -1,10 +1,3 @@
-## [Project#1] Build Uniswap Clone✅
-
-### Resources:
-
-- Followed from YT **[Build Uniswap Blockchain Web 3.0 App with Solidity | Next.js | Sanity.io ($100 Crypto Giveaway)](https://www.youtube.com/watch?v=xXxjRzdYIss&ab_channel=CleverProgrammer)**
-    - This guy is inspired from JavaScript Mastery’s [YT] **[Build and Deploy a Modern Web 3.0 Blockchain App | Solidity, Smart Contracts, Crypto](https://www.youtube.com/watch?v=Wn_Kb3MR_cU&ab_channel=JavaScriptMastery)**
-- [Sanity.io](http://Sanity.io) → [docs](https://www.sanity.io/docs/js-client)
 
 ### Steps, Notes & Code
 
